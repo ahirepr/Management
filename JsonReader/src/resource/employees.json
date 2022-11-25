@@ -1,0 +1,20 @@
+[
+	{
+		"employee": {
+			"empId": "101",
+			"name": "JJ",
+			"username": "btsjj",
+			"password": "jj@123",
+			"salary": "10100"
+		}
+	},
+	{
+		"employee": {
+			"empId": "102",
+			"name": "pankaj",
+			"username": "btspankaj",
+			"password": "pankaj@123",
+			"salary": "10200"
+		}
+	}
+]
